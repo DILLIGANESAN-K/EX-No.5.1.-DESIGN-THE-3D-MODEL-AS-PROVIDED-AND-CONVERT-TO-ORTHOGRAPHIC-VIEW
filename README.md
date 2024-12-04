@@ -35,7 +35,9 @@ Switch to drawing mode from design mode
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
-## OUTPUT
+## OUTPUT 
+![LM EX 5 1](https://github.com/user-attachments/assets/6e2d07a3-8b90-4d05-b78e-40ca2c0b9404)
+
 
 
 ## RESULT:
